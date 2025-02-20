@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nswierczek\\source\\repos\\NorbertSwierczek\\P-L_Programowanie-obiektowe_3IIZ-2023-GPL02\\projekt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6CAC84-1E21-4FF6-8F25-3A4074D45EA2}|projekt.csproj|c:\\users\\nswierczek\\source\\repos\\norbertswierczek\\p-l_programowanie-obiektowe_3iiz-2023-gpl02\\projekt\\dokumentyczynnosci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6CAC84-1E21-4FF6-8F25-3A4074D45EA2}|projekt.csproj|solutionrelative:dokumentyczynnosci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6CAC84-1E21-4FF6-8F25-3A4074D45EA2}|projekt.csproj|c:\\users\\nswierczek\\source\\repos\\norbertswierczek\\p-l_programowanie-obiektowe_3iiz-2023-gpl02\\projekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6CAC84-1E21-4FF6-8F25-3A4074D45EA2}|projekt.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6CAC84-1E21-4FF6-8F25-3A4074D45EA2}|projekt.csproj|c:\\users\\nswierczek\\source\\repos\\norbertswierczek\\p-l_programowanie-obiektowe_3iiz-2023-gpl02\\projekt\\projekt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7F6CAC84-1E21-4FF6-8F25-3A4074D45EA2}|projekt.csproj|solutionrelative:projekt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6CAC84-1E21-4FF6-8F25-3A4074D45EA2}|projekt.csproj|c:\\users\\nswierczek\\source\\repos\\norbertswierczek\\p-l_programowanie-obiektowe_3iiz-2023-gpl02\\projekt\\dokument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6CAC84-1E21-4FF6-8F25-3A4074D45EA2}|projekt.csproj|solutionrelative:dokument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6CAC84-1E21-4FF6-8F25-3A4074D45EA2}|projekt.csproj|c:\\users\\nswierczek\\source\\repos\\norbertswierczek\\p-l_programowanie-obiektowe_3iiz-2023-gpl02\\projekt\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{7F6CAC84-1E21-4FF6-8F25-3A4074D45EA2}|projekt.csproj|solutionrelative:classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6CAC84-1E21-4FF6-8F25-3A4074D45EA2}|projekt.csproj|c:\\users\\nswierczek\\source\\repos\\norbertswierczek\\p-l_programowanie-obiektowe_3iiz-2023-gpl02\\projekt\\uzytkownik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6CAC84-1E21-4FF6-8F25-3A4074D45EA2}|projekt.csproj|solutionrelative:uzytkownik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6CAC84-1E21-4FF6-8F25-3A4074D45EA2}|projekt.csproj|c:\\users\\nswierczek\\source\\repos\\norbertswierczek\\p-l_programowanie-obiektowe_3iiz-2023-gpl02\\projekt\\dokumentkadrowy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6CAC84-1E21-4FF6-8F25-3A4074D45EA2}|projekt.csproj|solutionrelative:dokumentkadrowy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6CAC84-1E21-4FF6-8F25-3A4074D45EA2}|projekt.csproj|c:\\users\\nswierczek\\source\\repos\\norbertswierczek\\p-l_programowanie-obiektowe_3iiz-2023-gpl02\\projekt\\dokumenttechniczny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6CAC84-1E21-4FF6-8F25-3A4074D45EA2}|projekt.csproj|solutionrelative:dokumenttechniczny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6CAC84-1E21-4FF6-8F25-3A4074D45EA2}|projekt.csproj|c:\\users\\nswierczek\\source\\repos\\norbertswierczek\\p-l_programowanie-obiektowe_3iiz-2023-gpl02\\projekt\\dokumentfinansowy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6CAC84-1E21-4FF6-8F25-3A4074D45EA2}|projekt.csproj|solutionrelative:dokumentfinansowy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dokument.cs",
+              "DocumentMoniker": "C:\\Users\\nswierczek\\source\\repos\\NorbertSwierczek\\P-L_Programowanie-obiektowe_3IIZ-2023-GPL02\\projekt\\Dokument.cs",
+              "RelativeDocumentMoniker": "Dokument.cs",
+              "ToolTip": "C:\\Users\\nswierczek\\source\\repos\\NorbertSwierczek\\P-L_Programowanie-obiektowe_3IIZ-2023-GPL02\\projekt\\Dokument.cs",
+              "RelativeToolTip": "Dokument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T11:48:15.699Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\nswierczek\\source\\repos\\NorbertSwierczek\\P-L_Programowanie-obiektowe_3IIZ-2023-GPL02\\projekt\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\nswierczek\\source\\repos\\NorbertSwierczek\\P-L_Programowanie-obiektowe_3IIZ-2023-GPL02\\projekt\\ClassDiagram1.cd",
+              "RelativeToolTip": "ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-02-19T13:06:20.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "projekt.csproj",
+              "DocumentMoniker": "C:\\Users\\nswierczek\\source\\repos\\NorbertSwierczek\\P-L_Programowanie-obiektowe_3IIZ-2023-GPL02\\projekt\\projekt.csproj",
+              "RelativeDocumentMoniker": "projekt.csproj",
+              "ToolTip": "C:\\Users\\nswierczek\\source\\repos\\NorbertSwierczek\\P-L_Programowanie-obiektowe_3IIZ-2023-GPL02\\projekt\\projekt.csproj",
+              "RelativeToolTip": "projekt.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-19T13:04:33.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Uzytkownik.cs",
+              "DocumentMoniker": "C:\\Users\\nswierczek\\source\\repos\\NorbertSwierczek\\P-L_Programowanie-obiektowe_3IIZ-2023-GPL02\\projekt\\Uzytkownik.cs",
+              "RelativeDocumentMoniker": "Uzytkownik.cs",
+              "ToolTip": "C:\\Users\\nswierczek\\source\\repos\\NorbertSwierczek\\P-L_Programowanie-obiektowe_3IIZ-2023-GPL02\\projekt\\Uzytkownik.cs",
+              "RelativeToolTip": "Uzytkownik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T16:29:54.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DokumentyCzynnosci.cs",
+              "DocumentMoniker": "C:\\Users\\nswierczek\\source\\repos\\NorbertSwierczek\\P-L_Programowanie-obiektowe_3IIZ-2023-GPL02\\projekt\\DokumentyCzynnosci.cs",
+              "RelativeDocumentMoniker": "DokumentyCzynnosci.cs",
+              "ToolTip": "C:\\Users\\nswierczek\\source\\repos\\NorbertSwierczek\\P-L_Programowanie-obiektowe_3IIZ-2023-GPL02\\projekt\\DokumentyCzynnosci.cs",
+              "RelativeToolTip": "DokumentyCzynnosci.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T14:42:28.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DokumentKadrowy.cs",
+              "DocumentMoniker": "C:\\Users\\nswierczek\\source\\repos\\NorbertSwierczek\\P-L_Programowanie-obiektowe_3IIZ-2023-GPL02\\projekt\\DokumentKadrowy.cs",
+              "RelativeDocumentMoniker": "DokumentKadrowy.cs",
+              "ToolTip": "C:\\Users\\nswierczek\\source\\repos\\NorbertSwierczek\\P-L_Programowanie-obiektowe_3IIZ-2023-GPL02\\projekt\\DokumentKadrowy.cs",
+              "RelativeToolTip": "DokumentKadrowy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T11:43:42.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DokumentTechniczny.cs",
+              "DocumentMoniker": "C:\\Users\\nswierczek\\source\\repos\\NorbertSwierczek\\P-L_Programowanie-obiektowe_3IIZ-2023-GPL02\\projekt\\DokumentTechniczny.cs",
+              "RelativeDocumentMoniker": "DokumentTechniczny.cs",
+              "ToolTip": "C:\\Users\\nswierczek\\source\\repos\\NorbertSwierczek\\P-L_Programowanie-obiektowe_3IIZ-2023-GPL02\\projekt\\DokumentTechniczny.cs",
+              "RelativeToolTip": "DokumentTechniczny.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T11:43:12.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DokumentFinansowy.cs",
+              "DocumentMoniker": "C:\\Users\\nswierczek\\source\\repos\\NorbertSwierczek\\P-L_Programowanie-obiektowe_3IIZ-2023-GPL02\\projekt\\DokumentFinansowy.cs",
+              "RelativeDocumentMoniker": "DokumentFinansowy.cs",
+              "ToolTip": "C:\\Users\\nswierczek\\source\\repos\\NorbertSwierczek\\P-L_Programowanie-obiektowe_3IIZ-2023-GPL02\\projekt\\DokumentFinansowy.cs",
+              "RelativeToolTip": "DokumentFinansowy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T11:42:58.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nswierczek\\source\\repos\\NorbertSwierczek\\P-L_Programowanie-obiektowe_3IIZ-2023-GPL02\\projekt\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nswierczek\\source\\repos\\NorbertSwierczek\\P-L_Programowanie-obiektowe_3IIZ-2023-GPL02\\projekt\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:28:14.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
